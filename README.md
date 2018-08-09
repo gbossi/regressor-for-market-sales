@@ -88,7 +88,9 @@ Analysis.
 We can see in this Heatmap the strong
 correlations between the weather features.
 
-******HEATMAP
+<p align="center">
+  <img width="75%" src="https://github.com/gbossi/regressor-for-market-sales/blob/master/photo/Heatmap.png">
+</p>
 
 Considering only the first 4 components we
 have reached a cumulative variance of ~98%.
